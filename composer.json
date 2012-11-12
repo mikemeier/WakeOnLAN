@@ -1,0 +1,32 @@
+{
+    "name": "PHPGangsta/WakeOnLAN",
+
+    "type": "library",
+
+    "description": "WakeOnLAN PHP class",
+
+    "keywords": ["wol", "wake on lan", "wakeonlan"],
+
+    "homepage": "https://github.com/PHPGangsta/WakeOnLAN",
+
+    "license": "BSD",
+
+    "authors": [
+        {
+            "name": "Michael Kliewe",
+            "email": "info@phpgangsta.de"
+        }
+    ],
+
+    "minimum-stability": "dev",
+
+    "require": {
+        "php": ">=5.3.2"
+    },
+
+    "autoload": {
+        "psr-0": { "PHPGangsta": "src/" }
+    },
+
+    "target-dir": "Ibrows/Bundle/NewsletterBundle"
+}
