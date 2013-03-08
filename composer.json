@@ -26,7 +26,5 @@
 
     "autoload": {
         "psr-0": { "PHPGangsta": "src/" }
-    },
-
-    "target-dir": "Ibrows/Bundle/NewsletterBundle"
+    }
 }
